@@ -13,15 +13,15 @@ I'm a second-year Ph.D. student from [Institute of Medical Technology](https://i
 
 My research interest:
 
-·medical image
-
-·biomechanics
-
-·deep learning
-
-·3D organ reconstruction
-
-·finite element analysis.
+    ·medical image
+    
+    ·biomechanics
+    
+    ·deep learning
+    
+    ·3D organ reconstruction
+    
+    ·finite element analysis.
 
 I am very fortunate to be advised by [Prof. Luo](https://bme.bjmu.edu.cn/szdw/223027.htm) of BBD-Lab from [Biomedical Engineering Department](https://bme.bjmu.edu.cn/), Peking University.
 
