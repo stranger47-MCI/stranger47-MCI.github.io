@@ -21,7 +21,7 @@ My research interest:
     
     ·3D organ reconstruction
     
-    ·finite element analysis.
+    ·finite element analysis
 
 I am very fortunate to be advised by [Prof. Luo](https://bme.bjmu.edu.cn/szdw/223027.htm) of BBD-Lab from [Biomedical Engineering Department](https://bme.bjmu.edu.cn/), Peking University.
 
